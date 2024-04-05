@@ -1,6 +1,6 @@
 # parseable on PipeOps
 
-![](https://raw.githubusercontent.com/parseablehq/.github/main/images/logo.svg#gh-light-mode-only)
+
 
 <h2 align="center">
     <picture>
@@ -12,6 +12,8 @@
     Cloud native log analytics
 </h2>
 
+[![Deploy on PipeOps](https://pub-a1fbf367a4cd458487cfa3f29154ac93.r2.dev/Default.png)](https://railway.app/template/0ELOuE?referralCode=IQhE0B)
+
 <div align="center">
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/parseable/parseable?logo=docker&label=Docker%20Pulls)](https://hub.docker.com/r/parseable/parseable)
@@ -22,6 +24,7 @@
 [Key Concepts](https://www.parseable.io/docs/concepts) | [Features](https://github.com/parseablehq/parseable#rocket-highlights) | [Documentation](https://www.parseable.io/docs) | [Demo](https://demo.parseable.com/login?q=eyJ1c2VybmFtZSI6ImFkbWluIiwicGFzc3dvcmQiOiJhZG1pbiJ9) | [Integrations](https://www.parseable.io/docs/category/integrations) | [FAQ](https://www.parseable.io/docs/faq)
 
 </div>
+
 
 Parseable is a log analytics platform, built for the modern, cloud native era. Parseable uses a index-free mechanism to organize and query data allowing low latency, and high throughput ingestion and query.
 
