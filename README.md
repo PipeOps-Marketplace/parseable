@@ -1,6 +1,6 @@
 # parseable on PipeOps
 
-
+![](https://raw.githubusercontent.com/parseablehq/.github/main/images/logo.svg#gh-light-mode-only)
 
 <h2 align="center">
     <picture>
